@@ -1,0 +1,56 @@
+.b1{
+  font-family: 'Open Sans';
+
+}
+.b2{
+  margin-top: 40;
+  background-color: #bbdefb;
+  height: 200px;
+}
+.b3{
+
+}
+.b4{
+
+}
+.b5{
+  margin-top: 30px;
+}
+.b6{
+  color: white;
+ background-color: #1976d2;
+ width: 140px;
+ font-weight: bold;
+}
+.b7{
+  height: 28px;
+  font-size: 18px;
+}
+
+
+.b8{
+ margin-top: 10px;
+ background-color: #0069c0;
+ color: white;
+ font-weight:
+ 
+}
+.b9{
+  font-family: 'Spectral SC', serif;
+  font-size: 50px;
+
+
+}
+.a1{
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Julius Sans One', sans-serif;
+  color: white;
+  background-color: #3f51b5;
+  /* background: #00d2ff;
+  background: -webkit-linear-gradient(to left, #3a7bd5, #00d2ff);
+  background: linear-gradient(to left, #3a7bd5, #00d2ff); */
+  }
+.a2{
+  margin-top: 10px;
+}
